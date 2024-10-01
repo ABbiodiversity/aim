@@ -1,9 +1,68 @@
 ---
-title: "aim"
-format: html
+title: "Adaptive Image Monitoring (AIM) Program"
+format:
+  html:
+    grid:
+      margin-width: 300px
+navbar: right
+theme: cosmo
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+author: "Alex MacPhail"
 editor: visual
+nocite: '@*'
+toc: true
+toc-depth: 3
+toc-expand: true
+toc-location: left
+styles: styles.css
+reference-location: margin
+citation-location: margin
 ---
 
-## Adaptive Image Monitoring (AIM) Program
+The Adaptive Image Monitoring (AIM) program is a collaborative initiative focused on enhancing biodiversity data collection through the strategic placement of remote camera traps in diverse scenarios. By employing science-based decision-making and standardized protocols, AIM optimizes remote camera placement to increase habitat and species coverage, thereby providing deeper and more accurate insights into species behaviour, population dynamics, and ecology. Integrated with WildTrax’s remote camera sensor, AIM efficiently channels this data into streamlined workflows, facilitating consistent and reliable long-term species monitoring.
 
-The Adaptive Image Monitoring (AIM) program is a collaborative initiative designed to enhance biodiversity data collection using remote camera traps positioned at unconventional angles. AIM employs science-based decision-making and standardized protocols to optimize camera placement across various scenarios, ensuring broader habitat and species coverage. By leveraging AI-driven algorithms, the program allows users to survey previously inaccessible or overlooked areas, offering deeper insights into species behaviour, population dynamics, and ecology. Integrated with WildTrax’s remote camera sensors, AIM efficiently channels this data into efficient pipelines, enabling more consistent and reliable long-term species monitoring.
+## Concepts
+
+### Unconventional camera placements
+
+We put cameras out in specific ways to optimize their usage across many taxa. Many taxa can be detected using remote camera traps when placed in specific scenarios. Utilizing cameras this way can maximize the potential of environmental sensors. With careful integration and harmonization, WildTrax can also be used to house and accommodate this data.
+
+### Distance-based detection
+
+How far away is it? It's important to know so you can get to things like animal density.
+
+### Event tagging
+
+What is occuring? It's important to get context behind what the animal might be doing.
+
+### Point-based image tagging
+
+How to tag the images? Sometimes the things in images are really small so putting a point instead of a box.
+
+### Artificial Intelligence
+
+AI can help do stuff.
+
+### WildTrax Enhancements
+
+What we did
+
+-Target additions (e.g., nest cavity) -Target metadata (e.g., size of cavity, cavity depth) -Species behaviours (e.g., entering/exiting cavity, feeding young) -Sensor to target metadata (e.g., distance, angle) -Field of view metadata (e.g., zoomed in) -Visit metadata additions (e.g. survey polygons) -Analytics
+
+## Applications
+
+### Nest monitoring
+
+#### Pileated Woodpecker
+
+#### Northern Saw-whet Owls
+
+### Colony monitoring
+
+#### Seabirds
+
+#### Bats
+
+### Groud-level monitoring
+
+#### Small mammals
