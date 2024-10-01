@@ -1,3 +1,9 @@
-# Adaptive Image Monitoring (AIM) Program
+---
+title: "aim"
+format: html
+editor: visual
+---
+
+## Adaptive Image Monitoring (AIM) Program
 
 The Adaptive Image Monitoring (AIM) program is a collaborative initiative designed to enhance biodiversity data collection using remote camera traps positioned at unconventional angles. AIM employs science-based decision-making and standardized protocols to optimize camera placement across various scenarios, ensuring broader habitat and species coverage. By leveraging AI-driven algorithms, the program allows users to survey previously inaccessible or overlooked areas, offering deeper insights into species behaviour, population dynamics, and ecology. Integrated with WildTrax’s remote camera sensors, AIM efficiently channels this data into efficient pipelines, enabling more consistent and reliable long-term species monitoring.
