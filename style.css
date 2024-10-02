@@ -1,0 +1,10 @@
+.wrapping {
+  float: right;
+  shape-margin: 50px;
+  width: 60%;
+}
+
+#fig-structure > figure > figcaption {
+  float: left;
+  clear: both;
+}
